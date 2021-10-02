@@ -1,1 +1,1 @@
-![Screenshot](/Git-Introduction/Capture.PNG)
+![Screenshot](https://github.com/RahmadSetiya/Git-Introduction/blob/main/Capture.PNG)

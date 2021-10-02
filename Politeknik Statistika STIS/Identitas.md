@@ -1,1 +1,1 @@
-![Screenshot](C:/Users/Tyo/Pictures/Capture.PNG)
+![Screenshot](/Users/Tyo/Pictures/Capture.PNG)

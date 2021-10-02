@@ -25,4 +25,3 @@
   <li> Pull request kedalam repository GDSC yang sudah anda fork tadi </li>
 
 </ul>
-

@@ -10,4 +10,4 @@ Alasan ingin masuk GDSC : Belajar lebih banyak, eksplorasi lebih banyak, dan ken
 
 ## Output (Image)
 
-![Output di Terminal](Screenshot from 2021-10-02 20-47-05.png)
+![Output di Terminal](Identitas.png)

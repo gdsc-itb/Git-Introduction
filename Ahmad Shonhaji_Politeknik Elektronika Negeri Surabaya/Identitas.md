@@ -1,13 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
+# Output Gambar
 
-
-
-int main (){
-puts("========================================================");
-puts("         ---Menampilkan Nama---                        ");
-puts("========================================================");
-puts("Nama                    : Ahmad Shonhaji");
-puts("jurusan                 : Teknik Informatika");
-puts("Alasan ingin masuk GDSC : Belajar dan Nambah Relasi");
-}
+![no 1](https://user-images.githubusercontent.com/88180498/135721622-2a1d011b-3db3-4d0f-afef-f4374acbceaf.PNG)

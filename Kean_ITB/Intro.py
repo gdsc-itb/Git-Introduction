@@ -1,0 +1,7 @@
+name = input('Masukkan nama anda: ')
+jurusan = input('Masukkan jurusan anda: ')
+reason = input('Kenapa anda ingin ikut GDSC?')
+print()
+print(f'Nama: {name}')
+print(f'Jurusan: {jurusan}')
+print(f'Alasan ingin masuk GDSC: {reason}')

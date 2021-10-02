@@ -1,1 +1,1 @@
-![Screenshot](D:\Course\Git-Introduction\Capture.PNG)
+![Screenshot](Capture.PNG)

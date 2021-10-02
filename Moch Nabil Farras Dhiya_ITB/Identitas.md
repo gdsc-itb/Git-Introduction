@@ -1,1 +1,1 @@
-# Moch Nabil Farras DhiyaScreenshot Identitas Program .py![SS Program](SS Program.png)
+# Moch Nabil Farras DhiyaScreenshot Identitas Program .py![SS Program](./SS.png)

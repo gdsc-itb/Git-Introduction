@@ -1,1 +1,1 @@
-![Screenshot](Git-Introduction/Capture.PNG)
+![Screenshot](/Git-Introduction/Capture.PNG)

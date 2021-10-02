@@ -1,1 +1,1 @@
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/JeffreyChow19/Git-Introduction/main/JeffreyChow_InstitutTeknologiBandung/iden.png)

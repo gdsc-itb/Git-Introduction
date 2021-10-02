@@ -1,4 +1,4 @@
 
-print("""  Nama : <Nama> 
-  Jurusan : <Jurusan>
-  Alasan ingin masuk GDSC : <Alasan>""")
+print("""  Nama : Aldwin Hardi Swastia 
+  Jurusan : Teknik Informatika
+  Alasan ingin masuk GDSC : Belajar""")

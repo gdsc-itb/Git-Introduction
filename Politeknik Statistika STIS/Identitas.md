@@ -1,1 +1,1 @@
-![Screenshot](/Users/Tyo/Pictures/Capture.PNG)
+![Screenshot](Capture.PNG)

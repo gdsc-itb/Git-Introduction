@@ -1,3 +1,2 @@
-# Image File
-
-![](Users/User/Pictures/WendyGit.png)
+# Images
+![](images/WendyGit.png)

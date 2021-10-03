@@ -1,3 +1,3 @@
 # Image Fille
 
-![](pictures/WendyGit.PNG)
+![](pictures/WendyGit.png)

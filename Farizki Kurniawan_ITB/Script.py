@@ -1,0 +1,5 @@
+print("-------------------------")
+print("Nama: Farizki Kurniawan")
+print("Jurusan: TPB STEI")
+print("Alasan ingin masuk GDSC: Ingin menambah pengetahuan pemrograman dan mencari teman baru")
+print("-------------------------")

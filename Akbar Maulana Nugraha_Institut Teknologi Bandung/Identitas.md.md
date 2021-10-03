@@ -1,1 +1,1 @@
-![alt text](https://github.com/[akbarmaulana0204]/[Git-Introduction]/blob/[main]/Identitas.md.png?raw=true)
+![alt text](http://https://github.com/akbarmaulana0204/Git-Introduction/blob/2b9fcdf47a0a9d43e2873c95a9f5e77b25c72fe2/Akbar%20Maulana%20Nugraha_Institut%20Teknologi%20Bandung/Identitas.md.png)

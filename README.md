@@ -1,5 +1,6 @@
 # GDSC-Git-Practice
-##  Task
+
+## Task
 
 <ul>
   <li> Gunakan cara pengumpulan sesuai dengan demo hands on yang telah diperlihatkan sebelumnya </li>
@@ -9,11 +10,11 @@
   <li> Buat 1 Program dengan dengan bahasa pemrograman apapun</li>
   <li> Lalu keluarkan output dengan format berikut</li>
 
-  ```shell
-    Nama : <Nama> 
-    Jurusan : <Jurusan>
-    Alasan ingin masuk GDSC : <Alasan>
-  ```
+```shell
+  Nama : <Nama>
+  Jurusan : <Jurusan>
+  Alasan ingin masuk GDSC : <Alasan>
+```
 
   <li> Setelah itu Screenshot hasil output yang dikeluarkan dan masukkan gambar Screenshot tersebut kedalam file markdown bernama Identitas.md</li>
   <li> Buat folder dengan format Nama_Univ </li>
@@ -25,4 +26,3 @@
   <li> Pull request kedalam repository GDSC yang sudah anda fork tadi </li>
 
 </ul>
-

@@ -1,3 +1,3 @@
 # Image File
 
-![](images/WendyGit.PNs)
+![](images/WendyGit.PNG)

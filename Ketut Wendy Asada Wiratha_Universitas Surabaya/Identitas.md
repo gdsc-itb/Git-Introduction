@@ -1,3 +1,3 @@
-# Image Fille
+# Image File
 
-![](pictures/WendyGit.png)
+![](Users/User/Pictures/WendyGit.png)

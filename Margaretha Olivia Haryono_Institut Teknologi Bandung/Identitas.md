@@ -1,1 +1,1 @@
-![identitas](../identitas.jpg)
+![identitas](identitas.jpg)

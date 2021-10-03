@@ -1,2 +1,2 @@
-nama, jurusan, alasan = "Muhammad Rafly Arjasubrata", "S1 Informatika", "Karena saya ingin belajar web development"
+nama, jurusan, alasan = "Muhammad Rafly Arjasubrata", "S1 Informatika", "Karena saya ingin belajar web development lebih lanjut"
 print(f"Nama : {nama}\nJurusan : {jurusan}\nAlasan ingin masuk GDSC : {alasan}")

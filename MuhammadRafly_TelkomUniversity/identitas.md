@@ -1,3 +1,3 @@
 # screenshot hasil
 <p>Ini Foto Saya</p>
-![Screenshot](foto.jpg)
+<img src="foto.jpg" alt="">

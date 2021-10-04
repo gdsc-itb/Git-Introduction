@@ -1,0 +1,1 @@
+<img title="identity-output" src="C:\Users\ravan\OneDrive\Documents\ITB\GDSC-ITB\output_Identitas.md">

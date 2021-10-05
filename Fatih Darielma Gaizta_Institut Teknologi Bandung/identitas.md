@@ -1,1 +1,1 @@
-![Image](hasil_main.jpg)
+![Image](hasil_main.png)

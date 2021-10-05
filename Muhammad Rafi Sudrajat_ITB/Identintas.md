@@ -1,2 +1,2 @@
 
-![Output](/img/Capture.PNG)
+![Output](./img/Capture.PNG)

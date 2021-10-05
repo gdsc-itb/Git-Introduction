@@ -1,0 +1,1 @@
+print('Nama : Jihad Dinnurrahman \nJurusan : Fisika \nAlasan ingin masuk GDSC : Menambah ilmu dan mengembangkan kemampuan dalam pengembangan teknologi')

@@ -1,0 +1,5 @@
+print("Nama: Maria Khelli")
+print("Jurusan: Teknik Informatika 2020")
+print("Alasan ingin masuk GDSC: Ingin mendapat informasi terbaru")
+print("tentang magang atau kesempatan-kesempatan baik lainnya dan")
+print("belajar produk Google khususnya TensorFlow.")

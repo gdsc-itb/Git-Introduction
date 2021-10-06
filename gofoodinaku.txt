@@ -1,7 +1,3 @@
 alamat
-<<<<<<< HEAD
 
 rumah aku berwarna hijau
-=======
-alalalalalal
->>>>>>> 29ed63db81e97ed67963354e04896e345df7763d

@@ -1,0 +1,16 @@
+E:\Visual Studio Code\Github Publishing\GDSC ITB\Git Introduction\Git-Introduction\MyProfile\bin\Debug\net5.0\MyProfile.exe
+E:\Visual Studio Code\Github Publishing\GDSC ITB\Git Introduction\Git-Introduction\MyProfile\bin\Debug\net5.0\MyProfile.deps.json
+E:\Visual Studio Code\Github Publishing\GDSC ITB\Git Introduction\Git-Introduction\MyProfile\bin\Debug\net5.0\MyProfile.runtimeconfig.json
+E:\Visual Studio Code\Github Publishing\GDSC ITB\Git Introduction\Git-Introduction\MyProfile\bin\Debug\net5.0\MyProfile.runtimeconfig.dev.json
+E:\Visual Studio Code\Github Publishing\GDSC ITB\Git Introduction\Git-Introduction\MyProfile\bin\Debug\net5.0\MyProfile.dll
+E:\Visual Studio Code\Github Publishing\GDSC ITB\Git Introduction\Git-Introduction\MyProfile\bin\Debug\net5.0\ref\MyProfile.dll
+E:\Visual Studio Code\Github Publishing\GDSC ITB\Git Introduction\Git-Introduction\MyProfile\bin\Debug\net5.0\MyProfile.pdb
+E:\Visual Studio Code\Github Publishing\GDSC ITB\Git Introduction\Git-Introduction\MyProfile\obj\Debug\net5.0\MyProfile.csproj.AssemblyReference.cache
+E:\Visual Studio Code\Github Publishing\GDSC ITB\Git Introduction\Git-Introduction\MyProfile\obj\Debug\net5.0\MyProfile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Code\Github Publishing\GDSC ITB\Git Introduction\Git-Introduction\MyProfile\obj\Debug\net5.0\MyProfile.AssemblyInfoInputs.cache
+E:\Visual Studio Code\Github Publishing\GDSC ITB\Git Introduction\Git-Introduction\MyProfile\obj\Debug\net5.0\MyProfile.AssemblyInfo.cs
+E:\Visual Studio Code\Github Publishing\GDSC ITB\Git Introduction\Git-Introduction\MyProfile\obj\Debug\net5.0\MyProfile.csproj.CoreCompileInputs.cache
+E:\Visual Studio Code\Github Publishing\GDSC ITB\Git Introduction\Git-Introduction\MyProfile\obj\Debug\net5.0\MyProfile.dll
+E:\Visual Studio Code\Github Publishing\GDSC ITB\Git Introduction\Git-Introduction\MyProfile\obj\Debug\net5.0\ref\MyProfile.dll
+E:\Visual Studio Code\Github Publishing\GDSC ITB\Git Introduction\Git-Introduction\MyProfile\obj\Debug\net5.0\MyProfile.pdb
+E:\Visual Studio Code\Github Publishing\GDSC ITB\Git Introduction\Git-Introduction\MyProfile\obj\Debug\net5.0\MyProfile.genruntimeconfig.cache

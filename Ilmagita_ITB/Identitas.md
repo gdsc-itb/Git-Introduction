@@ -1,0 +1,1 @@
+![Screenshot](C:\Users\ilmag\OneDrive\Documents\GitHub\GDSC\Git-Introduction\OutputGitIntroduction.png)

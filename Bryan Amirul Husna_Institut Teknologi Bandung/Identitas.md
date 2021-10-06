@@ -1,2 +1,2 @@
-![Output](output.png)
-<br>Gambar hasil output
+![Output](output.PNG)
+<br>Gambar hasil output program

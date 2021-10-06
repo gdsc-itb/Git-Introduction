@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-oh pls
-=======
 yessir
->>>>>>> 21588ed9e5d02edd7991c9012ae9418970740ad3
+
+nama

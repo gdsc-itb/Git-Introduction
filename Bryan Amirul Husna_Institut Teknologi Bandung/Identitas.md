@@ -1,1 +1,1 @@
-![Bryan Amirul Husna Program Output](output.png)
+![Output](output.png)

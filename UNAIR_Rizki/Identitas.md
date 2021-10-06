@@ -1,1 +1,1 @@
-<img title="Identitas" src="/Universitas Airlangga_Mukhammad Rizki/GDSC_Identitas_Mukhammad Rizki_UNAIR">
+<img title="Identitas" src="/UNAIR_Rizki/GDSC_Identitas_Mukhammad Rizki_UNAIR">

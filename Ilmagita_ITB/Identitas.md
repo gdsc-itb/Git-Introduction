@@ -1,1 +1,1 @@
-![Screenshot](C:\Users\ilmag\OneDrive\Documents\GitHub\GDSC\Git-Introduction\OutputGitIntroduction.png)
+![Screenshot](/Ilmagita_ITB/OutputGitIntroduction.png)

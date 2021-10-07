@@ -1,0 +1,2 @@
+nama, jurusan, alasan = "Wildan Fatahillah Akbar", "Sistem Informasi", "Ingin belajar banyak dan menambah skill saya di dunia pemrograman, sekaligus mencari relasi"
+print(f"Nama : {nama}\nJurusan : {jurusan}\nAlasan ingin masuk GDSC : {alasan}")

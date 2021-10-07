@@ -1,1 +1,1 @@
-![SS](SS.png)
+![SS](https://raw.githubusercontent.com/na-dhi-ra/Git-Introduction/main/Nadhira%20Azzahra_ITB/ss_identitas_nadhira.PNG)

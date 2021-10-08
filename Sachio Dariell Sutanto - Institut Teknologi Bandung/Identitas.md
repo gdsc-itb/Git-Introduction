@@ -1,1 +1,0 @@
-![Sachio Dariell](ss.jpg)

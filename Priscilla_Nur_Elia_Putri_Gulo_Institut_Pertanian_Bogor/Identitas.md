@@ -1,1 +1,0 @@
-﻿![GDSC 1 - Introduction.jpg] (https://github.com/Prs-cilla/Git-Introduction/blob/main/Priscilla_Nur_Elia_Putri_Gulo_Institut_Pertanian_Bogor/GDSC%201%20-%20Introduction.jpg)

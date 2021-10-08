@@ -1,1 +1,0 @@
-![alt text](https://github.com/Gulilil/Git-Introduction/blob/main/gambaroutput.jpg)

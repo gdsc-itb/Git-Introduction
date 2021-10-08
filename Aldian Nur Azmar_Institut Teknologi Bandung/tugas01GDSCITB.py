@@ -1,0 +1,3 @@
+print("Nama : Aldian Nur Azmar")
+print("Jurusan : Fisika")
+print("Alasan ingin masuk GDSC : Alasan saya tertarik bergabung menjadi anggota GDSC ITB adalah karena saya mencari forum yang sesuai dengan minat saya, dimana saya memiliki ketertarikan pada perkembangan teknologi khususnya yang berhubungan dengan google developer, kemudian saya juga ingin menambah pengalaman  di GDSC ITB, dan saya ingin mengembangkan keterampilan seperti pemecahan masalah, kerja tim, pemrograman, dll, kemudian saya juga ingin memperluas koneksi saya dengan anggota lain yang memiliki minat yang sama, saya pikir GDSC ITB adalah salah satu komunitas yang tepat atau  forum pengembangan diri.")

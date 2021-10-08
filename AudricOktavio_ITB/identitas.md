@@ -1,1 +1,1 @@
-[](https://drive.google.com/file/d/1PA_9emkzCK5enXP3j_HxKYYXQjUo9Tqg/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1PA_9emkzCK5enXP3j_HxKYYXQjUo9Tqg/view?usp=sharing" alt="Watasi wa neko dayo" width="500" height="600">

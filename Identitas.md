@@ -1,1 +1,1 @@
-![image.png]({https://github.com/Ivankrenzco/Eza-Fergiansyah_Akademi-Metrologi-dan-Instrumentasi/blob/aa3d95a7b8ad2deee208a84bd7c8fe322b1f789b/Identitas.png})
+![image](https://user-images.githubusercontent.com/77524282/136488589-5428a092-591c-4446-b9d6-dfef8be10120.png)

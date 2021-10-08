@@ -1,0 +1,10 @@
+Nama = input('Nama:', 's'); 
+Jurusan = input('Jurusan:', 's');
+Alasan = input('Alasan:', 's');
+
+fprintf('Halo nama saya %s \n', Nama)
+fprintf('Saya dari jurusan %s \n', Jurusan)
+fprintf('Alasan saya mengikuti GDSC ini adalah %s \n', Alasan)
+
+![identitas](https://user-images.githubusercontent.com/91828877/136555515-4e2b4bb0-e6a4-4eb3-9111-703d9a774b20.jpg)
+identitas.md

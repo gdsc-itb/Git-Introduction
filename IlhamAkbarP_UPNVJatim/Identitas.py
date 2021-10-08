@@ -1,0 +1,1 @@
+print ("Nama : Ilham Akbar Pradana \nJurusan : Informatika \nAlasan ingin masuk GDSC : Gabut dan ingin menambah ilmu")

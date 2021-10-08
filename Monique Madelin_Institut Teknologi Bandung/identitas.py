@@ -1,0 +1,2 @@
+# program dengan output berupa identitas
+print("Nama : Monique Madelin\nJurusan : Matematika\nAlasan ingin masuk GDSC : Saya ingin belajar mengenai data science di GDSC dan menemukan teman-teman baru serta lingkungan yang suportif untuk belajar.")

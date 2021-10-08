@@ -1,0 +1,1 @@
+![Fikri Naufal Hamdi - STEI ITB](./introduce.png)

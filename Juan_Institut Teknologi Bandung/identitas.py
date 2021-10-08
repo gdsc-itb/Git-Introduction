@@ -1,0 +1,5 @@
+print("-----------------------------------------------------------------------------------------------------------------------------")
+print("Nama : Juan Christopher Santoso")
+print("Jurusan : TPB STEI")
+print("Alasan ingin masuk GDSC : Ingin mengembangkan segala potensi diri yang ada, menambah koneksi, serta mencari pengalaman baru.")
+print("-----------------------------------------------------------------------------------------------------------------------------")

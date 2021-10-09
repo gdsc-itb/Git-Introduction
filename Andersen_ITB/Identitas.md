@@ -1,1 +1,1 @@
-![](Andersen_ITB/SS_Intro.jpg)
+![](SS_Intro.jpg)

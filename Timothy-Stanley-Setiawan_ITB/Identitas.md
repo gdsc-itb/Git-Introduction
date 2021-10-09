@@ -1,1 +1,1 @@
-![Identitas Diri] (https://cdn.discordapp.com/attachments/828577702646251591/896300427304378408/Identitas.png)
+![Identitas Diri] ./(https://cdn.discordapp.com/attachments/828577702646251591/896300427304378408/Identitas.png)

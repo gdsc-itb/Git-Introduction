@@ -1,0 +1,1 @@
+print("Nama : Agya Sadhana \nJurusan : Teknik Tenaga Listrik \nAlasan ingin masuk GDSC : ")

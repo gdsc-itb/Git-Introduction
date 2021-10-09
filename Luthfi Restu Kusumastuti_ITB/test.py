@@ -1,0 +1,2 @@
+print ("Nama : Luthfi Restu Kusumastuti \nJurusan : Teknik Telekomunikasi")
+print ("Alasan ingin masuk GDSC : ingin mengembangkan diri, menambah wawasan dan pengetahuan seputar teknologi, menjadikan motivasi untuk belajar hal baru")

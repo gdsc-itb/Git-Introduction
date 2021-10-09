@@ -1,3 +1,3 @@
 # Identitas
 
-![](Images/Bukti Output.jpg)
+![](Images/BuktiOutput.jpg)

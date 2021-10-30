@@ -1,0 +1,129 @@
+*{
+    margin:auto ;
+    
+    background-color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    margin-top: 100px;
+    text-align: center;
+    color: black;
+    border: whitesmoke solid 2px;
+    border-radius: 10px;
+}
+
+header p{
+    font-size: 50px;
+}
+
+.BoxMovie{
+    margin: 50px;
+    padding: 30px;
+    padding-left: 110px;
+    background-color: cornsilk;
+}
+
+.Daftar{
+    display: inline-block;
+    margin-top: 0px;
+    padding: 25px 20px;
+    background-color: slategrey;
+    text-align: left;
+    width: 200px;
+    height: auto;
+    
+}
+
+.Poster{
+    margin-top: 10px;
+    padding: 0px;
+    width: 200px;
+    height: auto;
+    display: inline-block;
+    
+}
+
+.PosterIn{
+    height: 30vh;
+    width: auto;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 0px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  #myInput{
+      margin-top: 50px;
+      background-color: rgb(186, 206, 196);
+      margin-left: 50px;
+      margin-right: 50px;
+  }
+
+  /* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    margin: 300px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 90vh; /* Full width */
+    height: 30vh; /* Full height */
+    
+    background-color: white; /* Fallback color */
+  
+  }
+  
+  /* Modal Content */
+  .ModalContent {
+    background-color: lightblue;
+    margin: auto;
+    padding: 20px;
+    width: auto;
+    color: white;
+  }
+  
+  .ModalContent p{
+      background-color: lightgray;
+      color: black;
+      display: inline-block;
+      margin-left: 10px;
+  }
+  /* The Close Button */
+  .close1 {
+    color: black;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    background-color: lightblue;
+  }
+  .close2 {
+    color: black;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    background-color: lightblue;
+  }
+  
+  
+  .close1:hover,
+  .close1:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .close2:hover,
+  .close2:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  

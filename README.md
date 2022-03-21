@@ -1,4 +1,5 @@
 # GDSC-Git-Practice
+Tugas pertama GDSC
 ##  Task
 
 <ul>

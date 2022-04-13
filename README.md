@@ -1,4 +1,9 @@
 # GDSC-Git-Practice
+
+## Info
+
+Git Introduction task made for the first assignment of Google Developer Student Clubs Chapter Institut Teknologi Bandung
+
 ##  Task
 
 <ul>

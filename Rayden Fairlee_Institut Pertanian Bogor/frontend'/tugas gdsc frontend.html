@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            
+            Top 15 Movies in 2020</title>
+        <link rel="stylesheet" href="style.css">
+        
+    </head>
+    <body>
+               
+        <header>
+            <p>TOP 15 MOVIES IN 2020</p>
+            <h1>Source : IMDb</h5>
+        </header>
+
+        <input type="text" id="myInput" oninput="processSearch(this)" placeholder="Search for a movie title">
+
+        <div class="container">   
+            <div class="Daftar">  
+                <div class="List" data-target='#modal1'>1. Tenet
+                    <img class="Poster" src=img/1.jpg>
+                </div>
+                <div class="List" data-target="#modal2">2. Wolfwalkers
+                    <img class="Poster" src="img/2.jpg">
+                </div>
+                <div class="List" data-target="#modal3">3. Sound of Metal
+                    <img class="Poster" src="img/3.jpg">
+                </div>
+                <div class="List" data-target="#modal4">4. Soul
+                    <img class="Poster" src="img/4.jpg">
+                </div>
+                <div class="List" data-target="#modal5">5. Greyhound
+                    <img class="Poster" src="img/5.jpg">
+                </div>
+                <div class="List" data-target="#modal6">6. Palm Springs
+                    <img class="Poster" src="img/6.jpg">
+                </div>
+                <div class="List" data-target="#modal7">7. Another Round
+                    <img class="Poster" src="img/7.jpg">
+                </div>
+                <div class="List" data-target="#modal8">8. The Gentlemen
+                    <img class="Poster" src="img/8.jpg">
+                </div>
+                <div class="List" data-target="#modal9">9. The Invisible Man
+                    <img class="Poster" src="img/9.jpg">
+                </div>
+                <div class="List" data-target="#modal10">10. Mank
+                    <img class="Poster" src="img/10.jpg">
+                </div>
+                <div class="List" data-target="#modal11">11. The Vast of Night
+                    <img class="Poster" src="img/11.jpg">
+                </div>
+                <div class="List" data-target="#modal12">12. The Devil All The Time
+                    <img class="Poster" src="img/12.jpg">
+                </div>
+                <div class="List" data-target="#modal13">13. Driveways
+                    <img class="Poster" src="img/13.jpg">
+                </div>
+                <div class="List" data-target="#modal14">14. Promising Young Woman
+                    <img class="Poster" src="img/14.jpg">
+                </div>
+                <div class="List" data-target="#modal15">15. Ma Raimey's Black Bottom
+                    <img class="Poster" src="img/15.jpg">
+                </div>
+            </div>
+        
+<!--The Modal-->
+           
+               <!--Modal Content-->
+        <div class="modal" id='modal1'>
+            <header>
+            <button class="btn close-modal">&times;</button>
+        </header>
+            <img class="PosterIn1" src="img/1.jpg">
+            <p>Tenet (2020) <br>                  
+                    Armed with only one word, Tenet, <br>
+                        and fighting for the survival of the entire world,<br> 
+                        a Protagonist journeys through <br>
+                        a twilight world of international espionage on <br>
+                        mission that will unfold in something beyond real time.</p>
+        </div>
+       
+           
+            <!--Modal Content-->
+        <div class="modal" id='modal2'>
+            <button class="btn close-modal">&times;</button>
+            <img class="PosterIn" src="img/2.jpg">
+                    <p>Wolfwalkers (2020) <br>                  
+                    A young apprentice hunter and her father journey to Ireland <br> help wipe out the last wolf pack.
+                    But everything<br> changes when she befriends a
+                    free-spirited girl from a mysterious<br>
+                    tribe rumored to transform into wolves by night.</p>
+        </div>
+    </div>
+
+    <div id="overlay"></div>
+            
+        
+        <script src="script.js"></script>
+    </body>
+</html>
